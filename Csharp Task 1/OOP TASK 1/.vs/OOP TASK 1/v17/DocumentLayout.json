@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\babek\\OneDrive\\Desktop\\CSharp tasks\\Csharp Task 1\\OOP TASK 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E35927-DBA3-494C-B722-3C24392DEFFF}|OOP TASK 1\\OOP TASK 1.csproj|c:\\users\\babek\\onedrive\\desktop\\csharp tasks\\csharp task 1\\oop task 1\\oop task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E35927-DBA3-494C-B722-3C24392DEFFF}|OOP TASK 1\\OOP TASK 1.csproj|solutionrelative:oop task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E35927-DBA3-494C-B722-3C24392DEFFF}|OOP TASK 1\\OOP TASK 1.csproj|c:\\users\\babek\\onedrive\\desktop\\csharp tasks\\csharp task 1\\oop task 1\\oop task 1\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E35927-DBA3-494C-B722-3C24392DEFFF}|OOP TASK 1\\OOP TASK 1.csproj|solutionrelative:oop task 1\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E35927-DBA3-494C-B722-3C24392DEFFF}|OOP TASK 1\\OOP TASK 1.csproj|c:\\users\\babek\\onedrive\\desktop\\csharp tasks\\csharp task 1\\oop task 1\\oop task 1\\models\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E35927-DBA3-494C-B722-3C24392DEFFF}|OOP TASK 1\\OOP TASK 1.csproj|solutionrelative:oop task 1\\models\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E35927-DBA3-494C-B722-3C24392DEFFF}|OOP TASK 1\\OOP TASK 1.csproj|c:\\users\\babek\\onedrive\\desktop\\csharp tasks\\csharp task 1\\oop task 1\\oop task 1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E35927-DBA3-494C-B722-3C24392DEFFF}|OOP TASK 1\\OOP TASK 1.csproj|solutionrelative:oop task 1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E35927-DBA3-494C-B722-3C24392DEFFF}|OOP TASK 1\\OOP TASK 1.csproj|c:\\users\\babek\\onedrive\\desktop\\csharp tasks\\csharp task 1\\oop task 1\\oop task 1\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E35927-DBA3-494C-B722-3C24392DEFFF}|OOP TASK 1\\OOP TASK 1.csproj|solutionrelative:oop task 1\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\babek\\OneDrive\\Desktop\\CSharp tasks\\Csharp Task 1\\OOP TASK 1\\OOP TASK 1\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "OOP TASK 1\\Models\\Driver.cs",
+              "ToolTip": "C:\\Users\\babek\\OneDrive\\Desktop\\CSharp tasks\\Csharp Task 1\\OOP TASK 1\\OOP TASK 1\\Models\\Driver.cs",
+              "RelativeToolTip": "OOP TASK 1\\Models\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:42:08.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\babek\\OneDrive\\Desktop\\CSharp tasks\\Csharp Task 1\\OOP TASK 1\\OOP TASK 1\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "OOP TASK 1\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\babek\\OneDrive\\Desktop\\CSharp tasks\\Csharp Task 1\\OOP TASK 1\\OOP TASK 1\\Models\\Teacher.cs",
+              "RelativeToolTip": "OOP TASK 1\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:40:58.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Programmer.cs",
+              "DocumentMoniker": "C:\\Users\\babek\\OneDrive\\Desktop\\CSharp tasks\\Csharp Task 1\\OOP TASK 1\\OOP TASK 1\\Models\\Programmer.cs",
+              "RelativeDocumentMoniker": "OOP TASK 1\\Models\\Programmer.cs",
+              "ToolTip": "C:\\Users\\babek\\OneDrive\\Desktop\\CSharp tasks\\Csharp Task 1\\OOP TASK 1\\OOP TASK 1\\Models\\Programmer.cs",
+              "RelativeToolTip": "OOP TASK 1\\Models\\Programmer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:40:32.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\babek\\OneDrive\\Desktop\\CSharp tasks\\Csharp Task 1\\OOP TASK 1\\OOP TASK 1\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "OOP TASK 1\\Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\babek\\OneDrive\\Desktop\\CSharp tasks\\Csharp Task 1\\OOP TASK 1\\OOP TASK 1\\Models\\Worker.cs",
+              "RelativeToolTip": "OOP TASK 1\\Models\\Worker.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:39:58.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\babek\\OneDrive\\Desktop\\CSharp tasks\\Csharp Task 1\\OOP TASK 1\\OOP TASK 1\\Program.cs",
+              "RelativeDocumentMoniker": "OOP TASK 1\\Program.cs",
+              "ToolTip": "C:\\Users\\babek\\OneDrive\\Desktop\\CSharp tasks\\Csharp Task 1\\OOP TASK 1\\OOP TASK 1\\Program.cs",
+              "RelativeToolTip": "OOP TASK 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:37:31.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\babek\OneDrive\Desktop\Null\Null\NullHomeTAsk\NullHomeTAsk\bin\Debug\net8.0\NullHomeTAsk.exe
+C:\Users\babek\OneDrive\Desktop\Null\Null\NullHomeTAsk\NullHomeTAsk\bin\Debug\net8.0\NullHomeTAsk.deps.json
+C:\Users\babek\OneDrive\Desktop\Null\Null\NullHomeTAsk\NullHomeTAsk\bin\Debug\net8.0\NullHomeTAsk.runtimeconfig.json
+C:\Users\babek\OneDrive\Desktop\Null\Null\NullHomeTAsk\NullHomeTAsk\bin\Debug\net8.0\NullHomeTAsk.dll
+C:\Users\babek\OneDrive\Desktop\Null\Null\NullHomeTAsk\NullHomeTAsk\bin\Debug\net8.0\NullHomeTAsk.pdb
+C:\Users\babek\OneDrive\Desktop\Null\Null\NullHomeTAsk\NullHomeTAsk\obj\Debug\net8.0\NullHomeTAsk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babek\OneDrive\Desktop\Null\Null\NullHomeTAsk\NullHomeTAsk\obj\Debug\net8.0\NullHomeTAsk.AssemblyInfoInputs.cache
+C:\Users\babek\OneDrive\Desktop\Null\Null\NullHomeTAsk\NullHomeTAsk\obj\Debug\net8.0\NullHomeTAsk.AssemblyInfo.cs
+C:\Users\babek\OneDrive\Desktop\Null\Null\NullHomeTAsk\NullHomeTAsk\obj\Debug\net8.0\NullHomeTAsk.csproj.CoreCompileInputs.cache
+C:\Users\babek\OneDrive\Desktop\Null\Null\NullHomeTAsk\NullHomeTAsk\obj\Debug\net8.0\NullHomeTAsk.dll
+C:\Users\babek\OneDrive\Desktop\Null\Null\NullHomeTAsk\NullHomeTAsk\obj\Debug\net8.0\refint\NullHomeTAsk.dll
+C:\Users\babek\OneDrive\Desktop\Null\Null\NullHomeTAsk\NullHomeTAsk\obj\Debug\net8.0\NullHomeTAsk.pdb
+C:\Users\babek\OneDrive\Desktop\Null\Null\NullHomeTAsk\NullHomeTAsk\obj\Debug\net8.0\NullHomeTAsk.genruntimeconfig.cache
+C:\Users\babek\OneDrive\Desktop\Null\Null\NullHomeTAsk\NullHomeTAsk\obj\Debug\net8.0\ref\NullHomeTAsk.dll

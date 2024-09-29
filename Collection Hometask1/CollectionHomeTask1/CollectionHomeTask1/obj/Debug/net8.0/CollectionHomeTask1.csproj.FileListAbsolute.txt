@@ -1,0 +1,14 @@
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Collection Hometask1\CollectionHomeTask1\CollectionHomeTask1\bin\Debug\net8.0\CollectionHomeTask1.exe
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Collection Hometask1\CollectionHomeTask1\CollectionHomeTask1\bin\Debug\net8.0\CollectionHomeTask1.deps.json
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Collection Hometask1\CollectionHomeTask1\CollectionHomeTask1\bin\Debug\net8.0\CollectionHomeTask1.runtimeconfig.json
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Collection Hometask1\CollectionHomeTask1\CollectionHomeTask1\bin\Debug\net8.0\CollectionHomeTask1.dll
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Collection Hometask1\CollectionHomeTask1\CollectionHomeTask1\bin\Debug\net8.0\CollectionHomeTask1.pdb
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Collection Hometask1\CollectionHomeTask1\CollectionHomeTask1\obj\Debug\net8.0\CollectionHomeTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Collection Hometask1\CollectionHomeTask1\CollectionHomeTask1\obj\Debug\net8.0\CollectionHomeTask1.AssemblyInfoInputs.cache
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Collection Hometask1\CollectionHomeTask1\CollectionHomeTask1\obj\Debug\net8.0\CollectionHomeTask1.AssemblyInfo.cs
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Collection Hometask1\CollectionHomeTask1\CollectionHomeTask1\obj\Debug\net8.0\CollectionHomeTask1.csproj.CoreCompileInputs.cache
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Collection Hometask1\CollectionHomeTask1\CollectionHomeTask1\obj\Debug\net8.0\CollectionHomeTask1.dll
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Collection Hometask1\CollectionHomeTask1\CollectionHomeTask1\obj\Debug\net8.0\refint\CollectionHomeTask1.dll
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Collection Hometask1\CollectionHomeTask1\CollectionHomeTask1\obj\Debug\net8.0\CollectionHomeTask1.pdb
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Collection Hometask1\CollectionHomeTask1\CollectionHomeTask1\obj\Debug\net8.0\CollectionHomeTask1.genruntimeconfig.cache
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Collection Hometask1\CollectionHomeTask1\CollectionHomeTask1\obj\Debug\net8.0\ref\CollectionHomeTask1.dll

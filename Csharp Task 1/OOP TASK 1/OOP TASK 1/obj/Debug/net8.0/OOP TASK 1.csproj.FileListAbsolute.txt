@@ -1,0 +1,14 @@
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Csharp Task 1\OOP TASK 1\OOP TASK 1\bin\Debug\net8.0\OOP TASK 1.exe
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Csharp Task 1\OOP TASK 1\OOP TASK 1\bin\Debug\net8.0\OOP TASK 1.deps.json
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Csharp Task 1\OOP TASK 1\OOP TASK 1\bin\Debug\net8.0\OOP TASK 1.runtimeconfig.json
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Csharp Task 1\OOP TASK 1\OOP TASK 1\bin\Debug\net8.0\OOP TASK 1.dll
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Csharp Task 1\OOP TASK 1\OOP TASK 1\bin\Debug\net8.0\OOP TASK 1.pdb
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Csharp Task 1\OOP TASK 1\OOP TASK 1\obj\Debug\net8.0\OOP TASK 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Csharp Task 1\OOP TASK 1\OOP TASK 1\obj\Debug\net8.0\OOP TASK 1.AssemblyInfoInputs.cache
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Csharp Task 1\OOP TASK 1\OOP TASK 1\obj\Debug\net8.0\OOP TASK 1.AssemblyInfo.cs
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Csharp Task 1\OOP TASK 1\OOP TASK 1\obj\Debug\net8.0\OOP TASK 1.csproj.CoreCompileInputs.cache
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Csharp Task 1\OOP TASK 1\OOP TASK 1\obj\Debug\net8.0\OOP TASK 1.dll
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Csharp Task 1\OOP TASK 1\OOP TASK 1\obj\Debug\net8.0\refint\OOP TASK 1.dll
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Csharp Task 1\OOP TASK 1\OOP TASK 1\obj\Debug\net8.0\OOP TASK 1.pdb
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Csharp Task 1\OOP TASK 1\OOP TASK 1\obj\Debug\net8.0\OOP TASK 1.genruntimeconfig.cache
+C:\Users\babek\OneDrive\Desktop\CSharp tasks\Csharp Task 1\OOP TASK 1\OOP TASK 1\obj\Debug\net8.0\ref\OOP TASK 1.dll

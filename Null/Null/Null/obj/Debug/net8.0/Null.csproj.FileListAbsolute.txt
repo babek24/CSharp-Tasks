@@ -1,0 +1,14 @@
+C:\Users\babek\OneDrive\Desktop\Null\Null\Null\bin\Debug\net8.0\Null.exe
+C:\Users\babek\OneDrive\Desktop\Null\Null\Null\bin\Debug\net8.0\Null.deps.json
+C:\Users\babek\OneDrive\Desktop\Null\Null\Null\bin\Debug\net8.0\Null.runtimeconfig.json
+C:\Users\babek\OneDrive\Desktop\Null\Null\Null\bin\Debug\net8.0\Null.dll
+C:\Users\babek\OneDrive\Desktop\Null\Null\Null\bin\Debug\net8.0\Null.pdb
+C:\Users\babek\OneDrive\Desktop\Null\Null\Null\obj\Debug\net8.0\Null.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babek\OneDrive\Desktop\Null\Null\Null\obj\Debug\net8.0\Null.AssemblyInfoInputs.cache
+C:\Users\babek\OneDrive\Desktop\Null\Null\Null\obj\Debug\net8.0\Null.AssemblyInfo.cs
+C:\Users\babek\OneDrive\Desktop\Null\Null\Null\obj\Debug\net8.0\Null.csproj.CoreCompileInputs.cache
+C:\Users\babek\OneDrive\Desktop\Null\Null\Null\obj\Debug\net8.0\Null.dll
+C:\Users\babek\OneDrive\Desktop\Null\Null\Null\obj\Debug\net8.0\refint\Null.dll
+C:\Users\babek\OneDrive\Desktop\Null\Null\Null\obj\Debug\net8.0\Null.pdb
+C:\Users\babek\OneDrive\Desktop\Null\Null\Null\obj\Debug\net8.0\Null.genruntimeconfig.cache
+C:\Users\babek\OneDrive\Desktop\Null\Null\Null\obj\Debug\net8.0\ref\Null.dll

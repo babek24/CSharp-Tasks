@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\babek\\OneDrive\\Desktop\\Null\\Null\\NullHomeTAsk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65813324-C474-439A-A286-5673708D562F}|NullHomeTAsk\\NullHomeTAsk.csproj|c:\\users\\babek\\onedrive\\desktop\\null\\null\\nullhometask\\nullhometask\\newfolder\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65813324-C474-439A-A286-5673708D562F}|NullHomeTAsk\\NullHomeTAsk.csproj|solutionrelative:nullhometask\\newfolder\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65813324-C474-439A-A286-5673708D562F}|NullHomeTAsk\\NullHomeTAsk.csproj|c:\\users\\babek\\onedrive\\desktop\\null\\null\\nullhometask\\nullhometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65813324-C474-439A-A286-5673708D562F}|NullHomeTAsk\\NullHomeTAsk.csproj|solutionrelative:nullhometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\babek\\OneDrive\\Desktop\\Null\\Null\\NullHomeTAsk\\NullHomeTAsk\\NewFolder\\Helper.cs",
+              "RelativeDocumentMoniker": "NullHomeTAsk\\NewFolder\\Helper.cs",
+              "ToolTip": "C:\\Users\\babek\\OneDrive\\Desktop\\Null\\Null\\NullHomeTAsk\\NullHomeTAsk\\NewFolder\\Helper.cs",
+              "RelativeToolTip": "NullHomeTAsk\\NewFolder\\Helper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:23:01.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\babek\\OneDrive\\Desktop\\Null\\Null\\NullHomeTAsk\\NullHomeTAsk\\Program.cs",
+              "RelativeDocumentMoniker": "NullHomeTAsk\\Program.cs",
+              "ToolTip": "C:\\Users\\babek\\OneDrive\\Desktop\\Null\\Null\\NullHomeTAsk\\NullHomeTAsk\\Program.cs",
+              "RelativeToolTip": "NullHomeTAsk\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:47:16.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

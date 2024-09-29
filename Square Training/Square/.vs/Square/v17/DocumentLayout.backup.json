@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\babek\\OneDrive\\Desktop\\Square Training\\Square\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{909B538F-7FDC-464D-8734-95C7CF693E98}|Square\\Square.csproj|c:\\users\\babek\\onedrive\\desktop\\square training\\square\\square\\extention\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909B538F-7FDC-464D-8734-95C7CF693E98}|Square\\Square.csproj|solutionrelative:square\\extention\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909B538F-7FDC-464D-8734-95C7CF693E98}|Square\\Square.csproj|c:\\users\\babek\\onedrive\\desktop\\square training\\square\\square\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909B538F-7FDC-464D-8734-95C7CF693E98}|Square\\Square.csproj|solutionrelative:square\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\babek\\OneDrive\\Desktop\\Square Training\\Square\\Square\\Extention\\Helper.cs",
+              "RelativeDocumentMoniker": "Square\\Extention\\Helper.cs",
+              "ToolTip": "C:\\Users\\babek\\OneDrive\\Desktop\\Square Training\\Square\\Square\\Extention\\Helper.cs",
+              "RelativeToolTip": "Square\\Extention\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:25:58.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\babek\\OneDrive\\Desktop\\Square Training\\Square\\Square\\Program.cs",
+              "RelativeDocumentMoniker": "Square\\Program.cs",
+              "ToolTip": "C:\\Users\\babek\\OneDrive\\Desktop\\Square Training\\Square\\Square\\Program.cs",
+              "RelativeToolTip": "Square\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:22:42.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

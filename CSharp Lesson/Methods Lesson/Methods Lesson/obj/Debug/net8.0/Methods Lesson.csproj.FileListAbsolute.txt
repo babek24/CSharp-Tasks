@@ -1,0 +1,14 @@
+C:\Users\babek\OneDrive\Desktop\CSharp Lesson\Methods Lesson\Methods Lesson\bin\Debug\net8.0\Methods Lesson.exe
+C:\Users\babek\OneDrive\Desktop\CSharp Lesson\Methods Lesson\Methods Lesson\bin\Debug\net8.0\Methods Lesson.deps.json
+C:\Users\babek\OneDrive\Desktop\CSharp Lesson\Methods Lesson\Methods Lesson\bin\Debug\net8.0\Methods Lesson.runtimeconfig.json
+C:\Users\babek\OneDrive\Desktop\CSharp Lesson\Methods Lesson\Methods Lesson\bin\Debug\net8.0\Methods Lesson.dll
+C:\Users\babek\OneDrive\Desktop\CSharp Lesson\Methods Lesson\Methods Lesson\bin\Debug\net8.0\Methods Lesson.pdb
+C:\Users\babek\OneDrive\Desktop\CSharp Lesson\Methods Lesson\Methods Lesson\obj\Debug\net8.0\Methods Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babek\OneDrive\Desktop\CSharp Lesson\Methods Lesson\Methods Lesson\obj\Debug\net8.0\Methods Lesson.AssemblyInfoInputs.cache
+C:\Users\babek\OneDrive\Desktop\CSharp Lesson\Methods Lesson\Methods Lesson\obj\Debug\net8.0\Methods Lesson.AssemblyInfo.cs
+C:\Users\babek\OneDrive\Desktop\CSharp Lesson\Methods Lesson\Methods Lesson\obj\Debug\net8.0\Methods Lesson.csproj.CoreCompileInputs.cache
+C:\Users\babek\OneDrive\Desktop\CSharp Lesson\Methods Lesson\Methods Lesson\obj\Debug\net8.0\Methods Lesson.dll
+C:\Users\babek\OneDrive\Desktop\CSharp Lesson\Methods Lesson\Methods Lesson\obj\Debug\net8.0\refint\Methods Lesson.dll
+C:\Users\babek\OneDrive\Desktop\CSharp Lesson\Methods Lesson\Methods Lesson\obj\Debug\net8.0\Methods Lesson.pdb
+C:\Users\babek\OneDrive\Desktop\CSharp Lesson\Methods Lesson\Methods Lesson\obj\Debug\net8.0\Methods Lesson.genruntimeconfig.cache
+C:\Users\babek\OneDrive\Desktop\CSharp Lesson\Methods Lesson\Methods Lesson\obj\Debug\net8.0\ref\Methods Lesson.dll
